@@ -1,0 +1,12 @@
+{
+  "name": "tourisme",
+  "displayName": "tourisme",
+  "expo": {
+    "name": "tourisme",
+    "slug": "tourisme",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
